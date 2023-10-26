@@ -2,7 +2,7 @@ import s from './App.module.css';
 import data from '../table.json';
 import { Suspense, lazy } from 'react';
 import { Routes, Route, NavLink, Navigate } from 'react-router-dom';
- const App = () => {
+const App = () => {
   const DummyTable = lazy(() => import('../components/DummyTable/DummyTable'));
   const DummyChart = lazy(() => import('../components/DummyChart/DummyChart'));
   const DummyList = lazy(() => import('../components/DummyList/DummyList'));
@@ -36,4 +36,4 @@ import { Routes, Route, NavLink, Navigate } from 'react-router-dom';
     </>
   );
 };
-export default App
+export default App;
