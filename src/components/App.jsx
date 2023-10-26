@@ -27,9 +27,9 @@ export const App = () => {
         </div>
         <Routes>
           <Route path="/" element={<DummyTable />} />
-          <Route path="/dummyTable.js" element={<DummyTable />} />
-          <Route path="/dummyChart.js" element={<DummyChart />} />
-          <Route path="/dummyList.js" element={<DummyList />} />
+          <Route path="/dummyTable" element={<DummyTable />} />
+          <Route path="/dummyChart" element={<DummyChart />} />
+          <Route path="/dummyList" element={<DummyList />} />
           <Route path="*" element={<Navigate to="/dummyTable.js" />} />
         </Routes>
       </Suspense>
