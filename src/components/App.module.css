@@ -1,0 +1,25 @@
+.menuWrap {
+    width: 1200px;
+    background-color: rgb(53, 191, 212);
+    height: 100px;
+    margin: auto;
+  }
+  .menuList {
+    display: flex;
+    list-style: none;
+    width: 800px;
+    margin: auto;
+    justify-content: space-between;
+    padding: 37px;
+  }
+  .menuItem {
+    justify-content: space-between;
+  }
+  .menuLink {
+    color: #f0ebeb;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 37px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+  }

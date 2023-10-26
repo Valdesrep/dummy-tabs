@@ -1,0 +1,16 @@
+.List {
+    margin: auto;
+    margin-top: 50px;
+    width: 400px;
+    list-style: none;
+  }
+  .Item {
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  .Item:not(:last-child) {
+    margin-bottom: 10px;
+  }
