@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummy-tabs/static/css/main.7acaea2f.css",
+    "main.js": "/dummy-tabs/static/js/main.273dcb02.js",
+    "index.html": "/dummy-tabs/index.html",
+    "main.7acaea2f.css.map": "/dummy-tabs/static/css/main.7acaea2f.css.map",
+    "main.273dcb02.js.map": "/dummy-tabs/static/js/main.273dcb02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.273dcb02.js"
+  ]
+}
