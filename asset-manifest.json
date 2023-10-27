@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dummy-tabs/static/css/main.30db8f9c.css",
-    "main.js": "/dummy-tabs/static/js/main.3ec10e0a.js",
+    "main.js": "/dummy-tabs/static/js/main.f5c42744.js",
     "static/css/475.5ce15a62.chunk.css": "/dummy-tabs/static/css/475.5ce15a62.chunk.css",
     "static/js/475.1fe2479f.chunk.js": "/dummy-tabs/static/js/475.1fe2479f.chunk.js",
     "static/css/508.4ebe5c30.chunk.css": "/dummy-tabs/static/css/508.4ebe5c30.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/22.4ef07811.chunk.js": "/dummy-tabs/static/js/22.4ef07811.chunk.js",
     "index.html": "/dummy-tabs/index.html",
     "main.30db8f9c.css.map": "/dummy-tabs/static/css/main.30db8f9c.css.map",
-    "main.3ec10e0a.js.map": "/dummy-tabs/static/js/main.3ec10e0a.js.map",
+    "main.f5c42744.js.map": "/dummy-tabs/static/js/main.f5c42744.js.map",
     "475.5ce15a62.chunk.css.map": "/dummy-tabs/static/css/475.5ce15a62.chunk.css.map",
     "475.1fe2479f.chunk.js.map": "/dummy-tabs/static/js/475.1fe2479f.chunk.js.map",
     "508.4ebe5c30.chunk.css.map": "/dummy-tabs/static/css/508.4ebe5c30.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.30db8f9c.css",
-    "static/js/main.3ec10e0a.js"
+    "static/js/main.f5c42744.js"
   ]
 }
