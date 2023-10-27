@@ -3,10 +3,12 @@ import { Suspense, lazy } from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import DummyMenu from './DummyMenu/DummyMenu';
 const App = () => {
-
   const DummyTable = lazy(() => import('../components/DummyTable/DummyTable'));
   const DummyChart = lazy(() => import('../components/DummyChart/DummyChart'));
   const DummyList = lazy(() => import('../components/DummyList/DummyList'));
+
+  // const Dummy = [DummyList,DummyChart, DummyTable];
+
 
   return (
     <Suspense fallback={<div> Loading...</div>}>
