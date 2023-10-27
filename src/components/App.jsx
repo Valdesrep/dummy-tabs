@@ -11,7 +11,6 @@ const App = () => {
     <Suspense fallback={<div> Loading...</div>}>
       <DummyMenu />
       <Routes>
-        <Route path="/" element={<DummyTable />} />
         <Route path={`/${data[0].id.toString()}`} element={<DummyTable />} />
         <Route path={`/${data[1].id.toString()}`} element={<DummyChart />} />
         <Route path={`/${data[2].id.toString()}`} element={<DummyList />} />
