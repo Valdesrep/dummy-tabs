@@ -3,7 +3,7 @@ import s from './DummyTable.module.css'
 
 function DummyTable() {
   return (
-    <>
+  
     <table className={s.table}>
 	<thead>
 		<tr>
@@ -82,7 +82,6 @@ function DummyTable() {
 		</tr>
 	</tbody>
 </table>
-    </>
   );
 }
 
