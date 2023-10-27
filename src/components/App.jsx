@@ -7,9 +7,6 @@ const App = () => {
   const DummyChart = lazy(() => import('../components/DummyChart/DummyChart'));
   const DummyList = lazy(() => import('../components/DummyList/DummyList'));
 
-  // const Dummy = [DummyList,DummyChart, DummyTable];
-
-
   return (
     <Suspense fallback={<div> Loading...</div>}>
       <DummyMenu />
@@ -18,7 +15,7 @@ const App = () => {
         <Route path={`/${data[0].id.toString()}`} element={<DummyTable />} />
         <Route path={`/${data[1].id.toString()}`} element={<DummyChart />} />
         <Route path={`/${data[2].id.toString()}`} element={<DummyList />} />
-        <Route path="*" element={<Navigate to={data[0].path} />} />
+        <Route path="*" element={<Navigate to={data[0].id} />} />
       </Routes>
     </Suspense>
   );
