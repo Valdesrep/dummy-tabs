@@ -1,7 +1,6 @@
 .Chart {
-  background-image: url("https://gb.ru/blog/wp-content/uploads/2022/10/4-9.jpg.webp");
-  width: 1200px;
-  height: 500px;
-  margin: auto;
-  background-size: cover;
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
 }

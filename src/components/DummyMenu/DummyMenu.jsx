@@ -9,7 +9,7 @@ function DummyMenu() {
       <ul className={s.menuList}>
         {data.map(table => (
           <li className={s.menuItem} key={table.id}>
-            <NavLink to={table.path} className={s.menuLink}>
+            <NavLink to={table.id} className={s.menuLink}>
               {table.title}
             </NavLink>
           </li>
