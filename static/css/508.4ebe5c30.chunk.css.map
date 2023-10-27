@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/508.4ebe5c30.chunk.css","mappings":"AAAA,yBACE,aAAc,CACd,cAAe,CAEf,eAAgB,CADhB,iBAEF","sources":["components/DummyChart/DummyChart.module.css"],"sourcesContent":[".Chart {\n  display: block;\n  font-size: 40px;\n  text-align: center;\n  margin-top: 50px;\n}\n"],"names":[],"sourceRoot":""}
