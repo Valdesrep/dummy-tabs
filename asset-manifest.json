@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dummy-tabs/static/css/main.8671ec42.css",
-    "main.js": "/dummy-tabs/static/js/main.905cee5b.js",
+    "main.css": "/dummy-tabs/static/css/main.30db8f9c.css",
+    "main.js": "/dummy-tabs/static/js/main.6a2a2dad.js",
     "static/css/475.5ce15a62.chunk.css": "/dummy-tabs/static/css/475.5ce15a62.chunk.css",
-    "static/js/475.40873a02.chunk.js": "/dummy-tabs/static/js/475.40873a02.chunk.js",
+    "static/js/475.1fe2479f.chunk.js": "/dummy-tabs/static/js/475.1fe2479f.chunk.js",
     "static/css/508.4a8d7ce9.chunk.css": "/dummy-tabs/static/css/508.4a8d7ce9.chunk.css",
-    "static/js/508.f9bf6f4e.chunk.js": "/dummy-tabs/static/js/508.f9bf6f4e.chunk.js",
+    "static/js/508.aa980412.chunk.js": "/dummy-tabs/static/js/508.aa980412.chunk.js",
     "static/css/22.d5f47140.chunk.css": "/dummy-tabs/static/css/22.d5f47140.chunk.css",
-    "static/js/22.9af21cec.chunk.js": "/dummy-tabs/static/js/22.9af21cec.chunk.js",
+    "static/js/22.4ef07811.chunk.js": "/dummy-tabs/static/js/22.4ef07811.chunk.js",
     "index.html": "/dummy-tabs/index.html",
-    "main.8671ec42.css.map": "/dummy-tabs/static/css/main.8671ec42.css.map",
-    "main.905cee5b.js.map": "/dummy-tabs/static/js/main.905cee5b.js.map",
+    "main.30db8f9c.css.map": "/dummy-tabs/static/css/main.30db8f9c.css.map",
+    "main.6a2a2dad.js.map": "/dummy-tabs/static/js/main.6a2a2dad.js.map",
     "475.5ce15a62.chunk.css.map": "/dummy-tabs/static/css/475.5ce15a62.chunk.css.map",
-    "475.40873a02.chunk.js.map": "/dummy-tabs/static/js/475.40873a02.chunk.js.map",
+    "475.1fe2479f.chunk.js.map": "/dummy-tabs/static/js/475.1fe2479f.chunk.js.map",
     "508.4a8d7ce9.chunk.css.map": "/dummy-tabs/static/css/508.4a8d7ce9.chunk.css.map",
-    "508.f9bf6f4e.chunk.js.map": "/dummy-tabs/static/js/508.f9bf6f4e.chunk.js.map",
+    "508.aa980412.chunk.js.map": "/dummy-tabs/static/js/508.aa980412.chunk.js.map",
     "22.d5f47140.chunk.css.map": "/dummy-tabs/static/css/22.d5f47140.chunk.css.map",
-    "22.9af21cec.chunk.js.map": "/dummy-tabs/static/js/22.9af21cec.chunk.js.map"
+    "22.4ef07811.chunk.js.map": "/dummy-tabs/static/js/22.4ef07811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8671ec42.css",
-    "static/js/main.905cee5b.js"
+    "static/css/main.30db8f9c.css",
+    "static/js/main.6a2a2dad.js"
   ]
 }
